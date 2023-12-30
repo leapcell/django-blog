@@ -1,0 +1,5 @@
+django
+markdown
+gunicorn
+leapcell
+python-dotenv
